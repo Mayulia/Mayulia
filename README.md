@@ -1,3 +1,4 @@
 <h1 align="center">Hi 💕, I'm Mayu</h1>
-<h4 align="center">A tech degree's student and software dev!</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayulia&label=Profile%20views&color=0e75b6&style=flat" alt="mayulia" /> </p>
+<h4 align="center">A tech degree's student and a newbie dev!</h3>
+<p align="center"><a href="https://codepen.io/MayuliaCroft"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="codepen"/></a>
+
